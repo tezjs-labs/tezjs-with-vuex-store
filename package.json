@@ -1,0 +1,22 @@
+{
+  "name": "tezjs-with-vuex-store",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "tez dev",
+    "build": "tez build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "@tezjs/vue": "1.0.0-beta.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@tezjs/cli": "1.0.0-beta.2",
+    "@tezjs/route": "1.0.0-beta.2",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
